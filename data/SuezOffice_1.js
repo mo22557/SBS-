@@ -1,0 +1,1 @@
+var json_SuezOffice_1 = {"type":"FeatureCollection","name":"SuezOffice_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Tel ":null,"Fax":null,"Mob":null," Address":null},"geometry":{"type":"Point","coordinates":[32.364303145239347,29.834111749678872]}}]}
